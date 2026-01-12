@@ -1,3 +1,4 @@
+[Go Back](index.html)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Miygteet/eaglercraft)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Miygteet/eaglercraft)
 ![GitHub forks](https://img.shields.io/github/forks/Miygteet/eaglercraft)
